@@ -13,4 +13,6 @@ This work is marked with  https://creativecommons.org/publicdomain/zero/1.0/
 ## Reporte de vision
 - Este programa pretende resolver los problemas de ingreso de huespedes, habitaciones disponibles, entradas y salidas, horarios de atencion entre cosas cosas con el fin de llevar una gestion optima que permita desarrollar de manera eficiente el buen funcionamiento en el hotel.
 
-## 
+## Especificacion de requisitos 
+
+## Plan de proyecto 
